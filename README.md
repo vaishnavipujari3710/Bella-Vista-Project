@@ -24,11 +24,10 @@ bella-vista/
 │── images/
 │── README.md
 
-⚙️ How to Run
-
-1.Download or clone the repository
-2.Open the project folder
-3.Open index.html in any browser
+## ⚙️ How to Run
+1. Download or clone the repository  
+2. Open the project folder  
+3. Open index.html in any browser  
 
 🌐 Live Demo
 
