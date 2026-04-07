@@ -26,9 +26,9 @@ bella-vista/
 
 ⚙️ How to Run
 
-Download or clone the repository
-Open the project folder
-Open index.html in any browser
+1.Download or clone the repository
+2.Open the project folder
+3.Open index.html in any browser
 
 🌐 Live Demo
 
@@ -61,6 +61,8 @@ Footer Section:
 <img width="949" height="502" alt="image" src="https://github.com/user-attachments/assets/b24c336f-ad09-4a2f-a423-b79e96f8976d" />
 
 
+
+
 👩‍💻 Author
 
 Vaishnavi Balaji Pujari
@@ -70,6 +72,7 @@ Vaishnavi Balaji Pujari
 Add booking functionality
 Improve UI design and animations
 Add more pages for rooms and services
+
 
 ⭐ Acknowledgement
 
