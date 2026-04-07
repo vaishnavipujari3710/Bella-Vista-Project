@@ -1,78 +1,96 @@
-🌴 Bella Vista - Hotel Website
+# 🌴 Bella Vista - Hotel Website
 
-📌 Project Overview
+✨ A modern and responsive hotel website designed to showcase services, rooms, and facilities with a clean and attractive user interface.
 
-Bella Vista is a modern and responsive hotel website designed to showcase hotel services, rooms, and facilities.
-It provides a clean and attractive interface for users to explore hotel details.
+---
 
-🏨 Features
+## 📌 Project Overview
 
-Responsive design (mobile, tablet, desktop)
-Clean and modern hotel UI
-Hotel information and services section
-Image display for hotel view
+Bella Vista is a beautifully designed hotel website that allows users to explore hotel services, view rooms, and understand facilities with ease.
+The design focuses on simplicity, responsiveness, and user experience.
 
-🛠️ Technologies Used
+---
 
-HTML5
-CSS3
+## 🏨 Features
 
-📁 Project Structure
+✔️ Fully responsive (Mobile, Tablet, Desktop)
+✔️ Clean and modern UI design
+✔️ Hotel services and information sections
+✔️ Image-based visual experience
+
+---
+
+## 🛠️ Technologies Used
+
+* 🌐 HTML5
+* 🎨 CSS3
+
+---
+
+## 📁 Project Structure
+
+```
 bella-vista/
 │── index.html
 │── styles.css
 │── images/
 │── README.md
+```
+
+---
 
 ## ⚙️ How to Run
-1. Download or clone the repository  
-2. Open the project folder  
-3. Open index.html in any browser  
 
-🌐 Live Demo
+1️⃣ Download or clone the repository
+2️⃣ Open the project folder
+3️⃣ Open `index.html` in any browser
 
-(https://bella-vista-project-git-main-vaishnavipujari3710s-projects.vercel.app/)
+---
 
-Example:
+## 🌐 Live Demo
 
-https://bella-vista-project.vercel.app/
+🔗 [View Live Project](https://bella-vista-project.vercel.app/)
 
-📸 Screenshots
+---
 
-Home Page:
+## 📸 Screenshots
 
-<img width="950" height="413" alt="image" src="https://github.com/user-attachments/assets/729b8f5a-bea1-415b-aa89-4d0e0289eeb5" />
+### 🏠 Home Page
 
-Menu:
+![Home](https://github.com/user-attachments/assets/729b8f5a-bea1-415b-aa89-4d0e0289eeb5)
 
-<img width="960" height="415" alt="image" src="https://github.com/user-attachments/assets/11f41383-c746-44e6-8c06-34d8fbf17010" />.
+### 🍽️ Menu
 
-About:
+![Menu](https://github.com/user-attachments/assets/11f41383-c746-44e6-8c06-34d8fbf17010)
 
-<img width="960" height="412" alt="image" src="https://github.com/user-attachments/assets/867581f1-b618-4301-9ec8-fbe2a745d7a6" />
+### ℹ️ About
 
-Contact:
+![About](https://github.com/user-attachments/assets/867581f1-b618-4301-9ec8-fbe2a745d7a6)
 
-<img width="485" height="414" alt="image" src="https://github.com/user-attachments/assets/70ed0a86-a77e-4fc1-ada7-68f6ed316b7c" />
+### 📞 Contact
 
-Footer Section:
+![Contact](https://github.com/user-attachments/assets/70ed0a86-a77e-4fc1-ada7-68f6ed316b7c)
 
-<img width="949" height="502" alt="image" src="https://github.com/user-attachments/assets/b24c336f-ad09-4a2f-a423-b79e96f8976d" />
+### 📌 Footer Section
 
+![Footer](https://github.com/user-attachments/assets/b24c336f-ad09-4a2f-a423-b79e96f8976d)
 
+---
 
+## 👩‍💻 Author
 
-👩‍💻 Author
+**Vaishnavi Balaji Pujari**
 
-Vaishnavi Balaji Pujari
+---
 
-📌 Future Improvements
+## 🚀 Future Improvements
 
-Add booking functionality
-Improve UI design and animations
-Add more pages for rooms and services
+* Add booking functionality
+* Enhance UI with animations
+* Add dedicated pages for rooms & services
 
+---
 
-⭐ Acknowledgement
+## ⭐ Acknowledgement
 
-This project is created for learning and practice in frontend web development.
+This project is developed for learning and practice in frontend web development.
