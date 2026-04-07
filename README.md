@@ -41,9 +41,9 @@ bella-vista/
 
 ## ⚙️ How to Run
 
-1️⃣ Download or clone the repository
-2️⃣ Open the project folder
-3️⃣ Open `index.html` in any browser
+🔹 1️⃣ Download or clone the repository  
+🔹 2️⃣ Open the project folder  
+🔹 3️⃣ Open `index.html` in any browser  
 
 
 
