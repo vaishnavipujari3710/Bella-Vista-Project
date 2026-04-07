@@ -2,14 +2,14 @@
 
 ✨ A modern and responsive hotel website designed to showcase services, rooms, and facilities with a clean and attractive user interface.
 
----
+
 
 ## 📌 Project Overview
 
 Bella Vista is a beautifully designed hotel website that allows users to explore hotel services, view rooms, and understand facilities with ease.
 The design focuses on simplicity, responsiveness, and user experience.
 
----
+
 
 ## 🏨 Features
 
@@ -18,14 +18,14 @@ The design focuses on simplicity, responsiveness, and user experience.
 ✔️ Hotel services and information sections
 ✔️ Image-based visual experience
 
----
+
 
 ## 🛠️ Technologies Used
 
 * 🌐 HTML5
 * 🎨 CSS3
 
----
+
 
 ## 📁 Project Structure
 
@@ -37,7 +37,7 @@ bella-vista/
 │── README.md
 ```
 
----
+
 
 ## ⚙️ How to Run
 
@@ -45,13 +45,13 @@ bella-vista/
 2️⃣ Open the project folder
 3️⃣ Open `index.html` in any browser
 
----
+
 
 ## 🌐 Live Demo
 
 🔗 [View Live Project](https://bella-vista-project.vercel.app/)
 
----
+
 
 ## 📸 Screenshots
 
@@ -75,13 +75,13 @@ bella-vista/
 
 ![Footer](https://github.com/user-attachments/assets/b24c336f-ad09-4a2f-a423-b79e96f8976d)
 
----
+
 
 ## 👩‍💻 Author
 
 **Vaishnavi Balaji Pujari**
 
----
+
 
 ## 🚀 Future Improvements
 
@@ -89,7 +89,7 @@ bella-vista/
 * Enhance UI with animations
 * Add dedicated pages for rooms & services
 
----
+
 
 ## ⭐ Acknowledgement
 
